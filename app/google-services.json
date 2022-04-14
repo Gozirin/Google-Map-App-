@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_number": "273924723798",
+    "firebase_url": "https://calm-snowfall-346814-default-rtdb.firebaseio.com",
+    "project_id": "calm-snowfall-346814",
+    "storage_bucket": "calm-snowfall-346814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273924723798:android:8c6992df40ad23405417f7",
+        "android_client_info": {
+          "package_name": "GoogleMap.Wk8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273924723798-j1cote2igo1pt9008s8evb6s7ht9fgof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcnzkqerfY6sZ1xGaEBHuRmMAO8OT_SFA"
+        },
+        {
+          "current_key": "AIzaSyAX5QBLvdzrxdprdrKmOCGaN6GIGvMHVzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273924723798-j1cote2igo1pt9008s8evb6s7ht9fgof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273924723798:android:44ebab05b7d24ed55417f7",
+        "android_client_info": {
+          "package_name": "com.example.googlemapwk8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273924723798-j1cote2igo1pt9008s8evb6s7ht9fgof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcnzkqerfY6sZ1xGaEBHuRmMAO8OT_SFA"
+        },
+        {
+          "current_key": "AIzaSyAX5QBLvdzrxdprdrKmOCGaN6GIGvMHVzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273924723798-j1cote2igo1pt9008s8evb6s7ht9fgof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
